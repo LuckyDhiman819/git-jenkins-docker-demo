@@ -22,4 +22,8 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <build>
+  	<finalName>ChennaiTufailBatch</finalName>
+  </build>
+  
 </project>
